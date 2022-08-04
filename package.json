@@ -1,0 +1,24 @@
+{
+  "name": "node_rp",
+  "version": "1.0.0",
+  "description": "node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpmaurya/Node_rp.git"
+  },
+  "keywords": [
+    "hello",
+    "node",
+    "js"
+  ],
+  "author": "rpmaurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpmaurya/Node_rp/issues"
+  },
+  "homepage": "https://github.com/rpmaurya/Node_rp#readme"
+}
