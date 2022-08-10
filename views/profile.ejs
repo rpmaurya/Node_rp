@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>profile</title>
+</head>
+
+<body>
+    <h1>Welcome <%=user.name%>
+    </h1>
+    <h3>Email: <%=user.email%>
+    </h3>
+    <h3> Contact: <%=user.contact%>
+    </h3>
+    <ul>
+        <%user.skill.forEach((iteam)=>{%>
+            <li>
+                <%= iteam%>
+            </li>
+            <%})%>
+    </ul>
+</body>
+
+</html>
